@@ -1,2 +1,2 @@
 # CMP-416-Network-Forensics-Investigation
-A Network Forensics investigation report that was done at University
+Report for a network forensics investigation. Completed for Abertay University Module: CMP416 Digital Forensics 2.
